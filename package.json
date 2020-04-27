@@ -1,0 +1,12 @@
+{
+  "name": "1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+,
+  "nodemonConfig": { "delay": "1" },
+  "scripts": 
+  {
+    "dev": "nodemon --exec python3 main.py ./main.py" 
+  }
+}
